@@ -11,7 +11,7 @@ inicio
       imc <- peso / (altura ^ 2)
       escreval("IMC:", imc:5:2)
       se (imc < 17) entao
-         escreval("palito")
+         escreval("")
       senao
            se (imc >= 17) e (imc < 18.5) entao
               escreval("abaixo do peso")
