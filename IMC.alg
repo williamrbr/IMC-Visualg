@@ -28,7 +28,7 @@ inicio
                                se (imc >= 35) e (imc < 40) entao
                                   escreval("obesidade severa")
                                senao
-                                    escreval ("baleia")
+                                    escreval ("obesidade Mórbida")
                                     fimse
                                fimse
                           fimse
